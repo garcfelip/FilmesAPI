@@ -31,3 +31,12 @@ C:\Users\garcf\source\repos\FilmesAPI\FilmesAPI\obj\Debug\net7.0\refint\FilmesAP
 C:\Users\garcf\source\repos\FilmesAPI\FilmesAPI\obj\Debug\net7.0\FilmesAPI.pdb
 C:\Users\garcf\source\repos\FilmesAPI\FilmesAPI\obj\Debug\net7.0\FilmesAPI.genruntimeconfig.cache
 C:\Users\garcf\source\repos\FilmesAPI\FilmesAPI\obj\Debug\net7.0\ref\FilmesAPI.dll
+C:\Users\garcf\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\garcf\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\garcf\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\garcf\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\garcf\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\garcf\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\garcf\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\garcf\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\garcf\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
