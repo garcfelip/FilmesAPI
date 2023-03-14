@@ -44,3 +44,5 @@ C:\Users\garcf\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net7.0\Microsoft.AspNe
 C:\Users\garcf\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\garcf\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
 C:\Users\garcf\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\garcf\source\repos\FilmesAPI\FilmesAPI\bin\Debug\net7.0\FilmesAPI.xml
+C:\Users\garcf\source\repos\FilmesAPI\FilmesAPI\obj\Debug\net7.0\FilmesAPI.xml
